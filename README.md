@@ -1,13 +1,20 @@
-# 🎓 Student Registration Form (HTML5 + CSS3)
+# 🧑‍💼 Responsive Admin Dashboard
 
-This is a simple and responsive Student Registration Form built using **HTML5** and **CSS3**. It includes various input types such as text, date, email, number, radio buttons, and checkboxes. This form can be extended or embedded into educational websites and portals.
+A clean and modern **Admin Dashboard** built using **HTML**, **CSS Grid**, and **Vanilla JavaScript**. Includes a responsive layout with a sidebar, header, main content area, and footer. Also features **light/dark mode theme switching**.
+
+---
+
+## ✨ Features
+
+- ✅ Fully responsive layout using **CSS Grid**
+- ✅ Light & Dark Mode Toggle
+- ✅ Sidebar navigation
+- ✅ Fixed Header
+- ✅ Professional and clean UI
+- ✅ Built with **pure HTML, CSS, and JavaScript**
+
+---
 
 
 
-## 📁 Project Structure
-practice3
-
-index.html
-styles.css
-script.js
 
